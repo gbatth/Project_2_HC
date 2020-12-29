@@ -2,7 +2,7 @@ Highcharts.chart('container', {
     chart: {
         type: 'tilemap',
         inverted: true,
-        height: '80%'
+        height: '60%'
     },
 
     accessibility: {
