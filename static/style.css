@@ -7,13 +7,13 @@
 caption {
 	padding-bottom: 15px;
 	font-family: 'Verdana';
-	font-size: 10em;
+	font-size: 100em;
 	color:#555;
 }
 
 table {
 	font-family: 'Verdana';
-	font-size: 100pt;          
+	font-size: 500pt;          
 	border-collapse: collapse;
 	border: 1px solid #EBEBEB;
 	margin: 10px auto;
